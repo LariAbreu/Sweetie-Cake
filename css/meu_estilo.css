@@ -24,7 +24,7 @@
 .bg {
     height: 100%;
     margin: 0px;
-    background-image: url(/_img/Fundo5.png);
+    background-image: url(img/Fundo5.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -36,7 +36,7 @@
 .bg-Cliente {
     height: 100%;
     margin: 0px;
-    background-image: url(/_img/Fundo2.png);
+    background-image: url(img/Fundo2.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -62,7 +62,7 @@
 }
 .contato {
 
-    background-image: url(/_img/fundo-contato.png);
+    background-image: url(img/fundo-contato.png);
     background-position: center;
     background-size: cover;
     height: 500px;
@@ -234,7 +234,7 @@ label[for="sobre"]:hover {
 
 .sobrenos {
 
-    background-image: url(/_img/Trajetória1.png);
+    background-image: url(img/Trajetória1.png);
     background-position: center;
     background-size: cover;
     height: 500px;
